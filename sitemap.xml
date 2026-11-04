@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://your-domain.com/assets/img/prima-altiora-wakad-towers.webp</image:loc></image:image>
+    <image:image><image:loc>https://your-domain.com/assets/img/podium-swimming-pool.webp</image:loc></image:image>
+    <image:image><image:loc>https://your-domain.com/assets/img/sports-turf-open-space.webp</image:loc></image:image>
+    <image:image><image:loc>https://your-domain.com/assets/img/indoor-games-lounge.webp</image:loc></image:image>
+    <image:image><image:loc>https://your-domain.com/assets/img/master-layout.webp</image:loc></image:image>
+    <image:image><image:loc>https://your-domain.com/assets/img/location-map-wakad.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://your-domain.com/privacy-policy.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+</urlset>
